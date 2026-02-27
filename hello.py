@@ -1,2 +1,2 @@
-print('hello git e Cursor')
-
+mensagem = "Oi"
+print(mensagem)
