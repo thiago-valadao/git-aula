@@ -1,2 +1,3 @@
-mensagem = "Hello World! Utilizando o git com Cursor"
+mensagem = "Hello World!"
 print(mensagem)
+print("Nova feature adicionada!")
